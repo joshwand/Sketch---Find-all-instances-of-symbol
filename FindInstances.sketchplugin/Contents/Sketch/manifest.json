@@ -15,8 +15,8 @@
     ],
     "title" : "Find Instances of Symbol"
   },
-  "identifier" : "com.example.sketch.845bc9b1-ac46-43f0-9163-2b6de0b7fbd1",
-  "version" : "0.0.0",
+  "identifier" : "com.nmwoods1.findinstances",
+  "version" : "1.0.1",
   "description" : "Find and list what pages your symbol instances are on",
   "authorEmail" : "",
   "name" : "Sketch Find Instances of Symbol"
